@@ -32,12 +32,15 @@
 ```bash
 # npm
 npm install @kaitify/core
+npm install @kaitify/core@0.0.3-beta.3
 
 # yarn
 yarn add @kaitify/core
+yarn add @kaitify/core@0.0.3-beta.3
 
 # pnpm
 pnpm add @kaitify/core
+pnpm add @kaitify/core@0.0.3-beta.3
 ```
 
 ### CDN

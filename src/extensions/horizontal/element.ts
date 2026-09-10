@@ -10,7 +10,7 @@ if (typeof HTMLElement !== 'undefined' && !customElements.get(HORIZONTAL_NODE_TA
      * dom挂载，首次渲染
      */
     connectedCallback() {
-      this.innerHTML = `<span><hr /></span>`
+      this.innerHTML = `<span><span></span></span>`
     }
   }
 
